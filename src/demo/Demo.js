@@ -199,22 +199,12 @@ class Demo extends Component {
                 <a href="/" className="logo">
                   <i className="feather-zap text-success display2-size me-3 ms-0"></i>
                   <span className="d-inline-block fredoka-font ls-3 fw-600 text-current font-xxl logo-text mb-0">
-                    Student Konnect.{" "}
+                    Student K{" "}
                   </span>{" "}
                 </a>
               </div>
               <div className="col-lg-6 col-md-6 col-sm-6 d-none d-lg-block">
                 <ul className="list-inline text-center mb-0 mt-2 pt-1">
-                  <li className="list-inline-item pe-4 ps-4">
-                    <a className="scroll-tiger" href="#feature">
-                      Home
-                    </a>
-                  </li>
-                  <li className="list-inline-item pe-4 ps-4">
-                    <a className="scroll-tiger" href="#demo">
-                      About
-                    </a>
-                  </li>
                   <li className="list-inline-item pe-4 ps-4">
                     <a className="scroll-tiger" href="#demo">
                       Community
@@ -240,16 +230,14 @@ class Demo extends Component {
                       Events
                     </a>
                   </li>
-                  <li className="list-inline-item pe-4 ps-4">
-                    <a className="scroll-tiger" href="#contact">
-                      Contact
-                    </a>
-                  </li>
                 </ul>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-3 col-xs-6 text-right">
-                <a href="/" className="btn btn-lg btn-primary text-uppercase">
-                  Buy Now
+                <a
+                  href="/register"
+                  className="btn btn-lg btn-primary text-uppercase"
+                >
+                  Join Us
                 </a>
               </div>
             </div>
