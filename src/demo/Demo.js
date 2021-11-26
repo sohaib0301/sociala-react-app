@@ -207,12 +207,37 @@ class Demo extends Component {
                 <ul className="list-inline text-center mb-0 mt-2 pt-1">
                   <li className="list-inline-item pe-4 ps-4">
                     <a className="scroll-tiger" href="#feature">
-                      Features
+                      Home
                     </a>
                   </li>
                   <li className="list-inline-item pe-4 ps-4">
                     <a className="scroll-tiger" href="#demo">
-                      Demo
+                      About
+                    </a>
+                  </li>
+                  <li className="list-inline-item pe-4 ps-4">
+                    <a className="scroll-tiger" href="#demo">
+                      Community
+                    </a>
+                  </li>
+                  <li className="list-inline-item pe-4 ps-4">
+                    <a className="scroll-tiger" href="#demo">
+                      Shop
+                    </a>
+                  </li>
+                  <li className="list-inline-item pe-4 ps-4">
+                    <a className="scroll-tiger" href="#demo">
+                      Skills
+                    </a>
+                  </li>
+                  <li className="list-inline-item pe-4 ps-4">
+                    <a className="scroll-tiger" href="#demo">
+                      Courses
+                    </a>
+                  </li>
+                  <li className="list-inline-item pe-4 ps-4">
+                    <a className="scroll-tiger" href="#demo">
+                      Events
                     </a>
                   </li>
                   <li className="list-inline-item pe-4 ps-4">
